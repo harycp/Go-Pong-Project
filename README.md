@@ -21,3 +21,5 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 
 Let's Play!
 Ready to experience the excitement? Join in on the fun and challenge your friends to a match of Go Pong!
+
+![Deskripsi Gambar](https://github.com/harycp/Go-Pong-Project/blob/efc60dac4c5cc8c874451b0cb51fca2c4d96961d/Go%20Pong%20Project/Ping%20Pong.png)
