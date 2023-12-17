@@ -6,6 +6,7 @@ Go Pong offers an exhilarating twist to the classic Pong game. Dive into a dynam
 Engage in fast-paced matches, challenge your friends, and embrace the competitive spirit!
 
 Features
+
 🌟 Multiplayer Madness: Play head-to-head matches with friends or foes, adding a social twist to the classic game.
 
 🎉 Vibrant Visuals: Dive into a visually stimulating world of pink hues and lively gameplay elements.
